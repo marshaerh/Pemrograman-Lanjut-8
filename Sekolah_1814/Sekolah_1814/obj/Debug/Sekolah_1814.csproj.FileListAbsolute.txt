@@ -1,0 +1,9 @@
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\bin\Debug\Sekolah_1814.exe.config
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\bin\Debug\Sekolah_1814.exe
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\bin\Debug\Sekolah_1814.pdb
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\obj\Debug\Sekolah_1814.csprojAssemblyReference.cache
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\obj\Debug\Sekolah_1814.Properties.Resources.resources
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\obj\Debug\Sekolah_1814.csproj.GenerateResource.cache
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\obj\Debug\Sekolah_1814.csproj.CoreCompileInputs.cache
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\obj\Debug\Sekolah_1814.exe
+D:\a SMT 3 19-20\PEMROGRAMAN LANJUT\8\Sekolah_1814\Sekolah_1814\obj\Debug\Sekolah_1814.pdb
